@@ -1,11 +1,11 @@
 //Général
 body {}
 
-.p5_ban {
-  background-image: url(../img/p5_ban.jpg);
+.jumbotron {
+  background-image: url(../img/jumbotron.jpg);
   background-size: cover;
   text-shadow: 0px 1px 2px #333333;
 }
-.p5_ban hr {
+.jumbotron hr {
   box-shadow: 0px 1px 1px #333333;
 }
